@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin Slobi! (🇩🇪/🇺🇸/🇷🇸)
+# 👋 Hallo, ich bin Slobi!
 
 Willkommen auf meinem GitHub-Profil! Ich arbeite an spannenden Projekten in Minecraft.
 
