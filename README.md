@@ -2,6 +2,6 @@
 
 Willkommen auf meinem GitHub-Profil! Ich arbeite an spannenden Projekten in Minecraft, Web-Entwicklung und mehr.
 
-- 🔭 Aktuelles Projekt: Fabric Modding
-- 🌱 Ich lerne gerade: Java, PHP
+- 🔭 Aktuelles Projekt: - (plane Minecraft Modding mit Java)
+- 🌱 Ich lerne gerade: Java
 - 📫 Erreichbar unter: slobi@theboys.ch
