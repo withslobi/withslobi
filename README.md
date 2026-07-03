@@ -2,6 +2,6 @@
 
 Willkommen auf meinem GitHub-Profil! Ich arbeite an spannenden Projekten in diversen Bereichen!
 
-- 🔭 Aktuelles Projekt: -
+- 🔭 Aktuelles Projekt: CM5 Home-Server
 - 🌱 Ich lerne gerade: -
 - 📫 Erreichbar unter: contact@slobodan.ch
